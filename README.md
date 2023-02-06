@@ -1,2 +1,6 @@
-# python
-Contains assignments given for computer programming ii and personal practice
+# 
+ <h1> COMPUTER PROGRAMMING II </h1>
+ <h2> ENE211-0257/2020</h2>
+<h2> PYTHON PROGRAMMING</h2>
+<h3> The following respository contains a summary and projects in the folowing course work </h3>
+
